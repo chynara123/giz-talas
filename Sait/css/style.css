@@ -1,0 +1,42 @@
+body {
+background-image:url("browser.png");
+margin:5px 10px 20px 30px;
+width:80%;
+padding-left: 100px
+color: orange;
+font-family: verdana;}
+ nav li{
+display: inline;
+margin-left: 30px;
+color:green;
+font-family: tahoma;
+font-weight: iighter;
+font-variant: small-caps;
+text-decoration:underline;
+text-transform: uppercase;
+word-spacing: 100px;
+}
+.zagol {
+font-size: big;
+color: red;
+font-style: oblique;
+font-weight: bolder;
+letter-spacing:2em}
+p {
+border-style: solid;
+font-family: arial;
+word-spacing: 50px}
+nav {
+color: green;
+font-weight: bold;
+font-style: italic;
+text-decoration: underline;
+letter-spacing: 2 em;
+border-width: 20px;
+}
+ul {
+list-style-image: url("Bullet-017.png")}
+.img{
+position: absolute; top: 200px; left: 200px }
+div {
+display: inline;}
